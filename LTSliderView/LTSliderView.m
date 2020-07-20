@@ -251,7 +251,7 @@
 
 //停止滑动之后开启定时器
 - (void)scrollViewDidEndDragging:(UIScrollView *)scrollView willDecelerate:(BOOL)decelerate {
-  //  [self startTimer];
+//   [self startTimer];
 }
 
 
